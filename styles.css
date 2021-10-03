@@ -1,0 +1,81 @@
+th {
+    padding: 5px 5px 5px 5px;
+}
+
+td {
+    padding: 5px 5px 5px 5px;
+}
+
+h1 {
+    text-align: center;
+    font-family: "Audiowide";
+    color: rgb(181, 39, 30);
+}
+
+h2 {
+    font-family: "Audiowide";
+}
+
+body{
+    background-color: white;
+}
+
+#firstArea{
+    background: white;
+    padding: 25px;
+}
+
+#secondArea{
+    background-color: rgb(227, 225, 225);
+    padding: 40px;
+}
+
+#thirdArea{
+    background-color: white;
+    padding: 20px;
+}
+
+#data{
+    border-radius: 25px;
+    background-color: white;
+    padding: 25px; 
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+}
+
+#sale{
+    color: black;
+    border-radius: 25px;
+    border-style: solid;
+    border-width: 1px;
+    background-color: white;
+    padding: 25px; 
+}
+
+#accountInfo{
+    color: white;
+    border-radius: 25px;
+    border-width: 4px;
+    border-style: solid;
+    background: rgb(181, 39, 30);
+    border-color: rgb(181, 39, 30);
+    padding: 25px; 
+}
+
+.button{
+    background-color: white;
+    color: black;
+    border-color: rgb(181, 39, 30);
+    border-width: 2px;
+}
+
+.button:hover{
+    background-color: rgb(181, 39, 30);
+    border-color: rgb(181, 39, 30);
+    
+}
+
+#cart{
+    background-color: rgb(51, 120, 164);
+}
